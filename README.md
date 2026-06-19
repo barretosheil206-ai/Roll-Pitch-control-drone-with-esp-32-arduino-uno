@@ -21,8 +21,8 @@ The setup aims to control the roll/pitch axis angle.
 
 ## References
 1. https://www.youtube.com/watch?v=Krl_6N71uro&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=77, Credit: Paul McWhorter, Watch lessons 77 to 85 to fully understand how to use MPU6050 as its the most crucial part of the system in my opinion.
-2. ![Wiring Diagram for arduino]()
-3. ![Wiring Diagram for esp32]()
+2. ![Wiring Diagram for arduino](Arduino_Uno.jpg)
+3. ![Wiring Diagram for esp32](ESP_32.jpg)
 
 ## License
 This project is free to be used by anyone.
